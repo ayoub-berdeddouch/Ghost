@@ -4,7 +4,7 @@ const models = require('../../models');
 const ALLOWED_INCLUDES = ['authors', 'tags'];
 
 const messages = {
-    postNotFound: 'Post not found.'
+    postNotFound: "Post not found."
 };
 
 module.exports = {
